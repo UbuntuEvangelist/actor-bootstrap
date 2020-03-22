@@ -29,7 +29,7 @@
   "dependencies": {
     "actor-js": "latest",
     "actor-sdk": "latest",
-    "assign-deep": "0.4.3",
+    "assign-deep": "1.0.0",
     "babel-polyfill": "^6.2.0",
     "classnames": "2.2.3",
     "crosstab": "0.2.12",
