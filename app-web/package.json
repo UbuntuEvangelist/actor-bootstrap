@@ -50,7 +50,7 @@
     "pace": "github:hubspot/pace",
     "react": "0.13.3",
     "react-intl": "1.2.2",
-    "react-mixin": "3.0.3",
+    "react-mixin": "3.1.1",
     "react-modal": "0.3.0",
     "react-router": "0.13.3",
     "react-scroll": "github:actorapp/react-scroll.git#f690add1cd1367e5483074d5a2dcddd3892f28fe",
