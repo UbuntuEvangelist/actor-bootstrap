@@ -48,7 +48,7 @@
     "object-assign": "4.0.1",
     "opus-recorder": "github:actorapp/Recorderjs.git",
     "pace": "github:hubspot/pace",
-    "react": "0.13.3",
+    "react": "0.14.10",
     "react-intl": "1.2.2",
     "react-mixin": "3.0.3",
     "react-modal": "0.3.0",
