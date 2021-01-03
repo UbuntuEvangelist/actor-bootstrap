@@ -43,7 +43,7 @@
     "keymirror": "0.1.1",
     "lodash": "3.10.1",
     "material-ui": "github:actorapp/material-ui.git#develop",
-    "memoizee": "0.3.9",
+    "memoizee": "0.4.14",
     "normalize.css": "3.0.3",
     "object-assign": "4.0.1",
     "opus-recorder": "github:actorapp/Recorderjs.git",
